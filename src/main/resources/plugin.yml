@@ -1,0 +1,9 @@
+name: zHCF
+version: 1.0-SNAPSHOT
+main: sainte.zhcf.zHCF
+author: Sainte
+description: A Hardcore Factions Plugin
+commands:
+  faction:
+    description: Main faction commands.
+    aliases: [f]
